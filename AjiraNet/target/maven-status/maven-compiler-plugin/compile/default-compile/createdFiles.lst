@@ -1,0 +1,12 @@
+com\demo\eventmanagement\db\dto\Event.class
+com\demo\eventmanagement\api\response\EventDateResponse.class
+com\demo\eventmanagement\api\TestResource.class
+com\demo\eventmanagement\db\dao\EventDAO.class
+com\demo\eventmanagement\api\request\EventRequest.class
+com\demo\eventmanagement\db\dao\UserDAO.class
+com\demo\eventmanagement\db\connector\H2ConnectionFactory.class
+com\demo\eventmanagement\db\connector\H2DatabaseClient.class
+com\demo\eventmanagement\service\EventService.class
+com\demo\eventmanagement\db\connector\MySqlConnectionFactory.class
+com\demo\eventmanagement\api\EventResource.class
+com\demo\eventmanagement\db\connector\MySqlDatabaseClient.class

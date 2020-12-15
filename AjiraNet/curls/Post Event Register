@@ -1,0 +1,9 @@
+curl --location --request POST 'http://localhost:8085/EventManagementSystem/api/events/register' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "eventId": 1,
+    "eventName": "a",
+    "speaker": "q",
+    "eventDate": "w",
+    "venue": "v"
+}'
